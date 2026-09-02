@@ -1,0 +1,8 @@
+streamlit==1.63.0
+pose2sim==0.10.49
+imageio-ffmpeg>=0.5,<1
+toml>=0.10.2
+scipy>=1.10,<1.17
+pandas>=2.0,<3
+numpy>=1.24,<3
+requests>=2.31,<3
